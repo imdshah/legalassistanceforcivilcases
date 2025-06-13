@@ -135,9 +135,8 @@ export function HomePage() {
               <h3 className="font-semibold text-lg mb-4">Contact</h3>
               <ul className="space-y-2">
                 <li>support@legalai.com</li>
-                <li>1-800-LEGAL-AI</li>
-                <li>123 Legal Street</li>
-                <li>New York, NY 10001</li>
+                <li>Final Year Project</li>
+                <li>Ponda, Goa</li>
               </ul>
             </div>
             <div>
